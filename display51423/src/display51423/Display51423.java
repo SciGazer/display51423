@@ -1,13 +1,11 @@
 /*
  * Display 5-1-4-2-3 and vice versa
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
  */
 package display51423;
 
 /**
  *
- * @author user
+ * @author scigazer
  */
 public class Display51423 {
     public static void main (String[] args){
